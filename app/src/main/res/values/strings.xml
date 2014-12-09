@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">That belongs in a museum</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fiets">Fiets</string>
+    <string name="voet">Voetganger</string>
+    <string name="auto">Auto</string>
+    <string name="route">Route Type</string>
+    <string name="bicycle">bicycle</string>
+    <string name="ped">pedestrian</string>
+    <string name="car">fastest</string>
+
+</resources>
